@@ -1,0 +1,22 @@
+{
+  "name": "greet-hello",
+  "version": "1.0.0",
+  "description": "npm package to greet hello to any name as input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashmit6040/greet-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ashmit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashmit6040/greet-package/issues"
+  },
+  "homepage": "https://github.com/ashmit6040/greet-package#readme"
+}
